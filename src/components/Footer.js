@@ -16,7 +16,7 @@ function Footer() {
         <div className="footer-link-wrapper">
           <div class="footer-link-items">
             <h2>Contact Info</h2>
-            <a href="tel:+8653154700">telephone</a>
+            <a href="tel:+8653154700">Telephone</a>
             <a href="mailto:jeremyhurst16@gmail.com">Email</a>
           </div>
         </div>
@@ -30,9 +30,6 @@ function Footer() {
           </div>
         </div>
       </div>
-      <section class="social-media">
-        <h3>Made with love by: Jeremy Hurst</h3>
-      </section>
     </div>
   );
 }
